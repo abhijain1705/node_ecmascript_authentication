@@ -196,3 +196,37 @@ if (port == null || port == "") {
 app.listen(port, function () {
     console.log("Successfully run at port 3000.")
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// SECRET=Thisisourlittilesecret.
+// CLIENT_ID=517436648632-ic5395u1fabe6grhqtp5ghmnnt39a0qp.apps.googleusercontent.com
+// CLIENT_SECRET=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
+
+// API_KEY=1YzZaRbR8ZqOgRIgFDpqA8jK4
+// API_SECRET_KEY=wpFKnoJx6IrILmRAQdvQeTbd9LT1Z7EqzN4IbSQdyiZ3fM5KWR
+
+
+// TWITTER_CONSUMER_KEY=VG5zTzd5RFpPeTA1MElWeTRpY2U6MTpjaQ
+// TWITTER_CONSUMER_SECRET=DiJP45DZx9k0yAQu9e9agxHGrr9hJMvVPJDIVoS49ol7Ou8jWq
+// BEARER_TOKEN=AAAAAAAAAAAAAAAAAAAAAGYmZQEAAAAAqTgaz8%2FqL0lja8PUBwySYxwzHHI%3DaOeiyfuufST9ETFyMkNz7Kv9sBoBMNGqsnQCVxsVyooZCyJhcE
